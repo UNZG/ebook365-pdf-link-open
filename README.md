@@ -4,7 +4,7 @@ This user script makes it easier to **open or extract PDF links** directly from 
 
 ---
 
-## 🚀 How to Install
+## How to Install
 
 ### 1. Install a UserScript manager
 
