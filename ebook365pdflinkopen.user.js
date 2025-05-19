@@ -4,8 +4,7 @@
 // @match        https://ebook365.vn/*
 // @grant        none
 // @version      1.0
-// @author       Bạn
-// @description  Tạo nút mở link PDF từ ảnh thumb-book trên ebook365.vn
+// @author       UNZG
 // ==/UserScript==
 
 (function() {
