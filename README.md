@@ -26,7 +26,7 @@ After installation, visit any ebook on [ebook365.vn](https://ebook365.vn) and th
 
 ---
 
-## 🛠 Developer Notes
+## Developer Notes
 
 This script is open-source and provided under the MIT license.  
 Feel free to contribute or report issues in the [GitHub repository](https://github.com/UNZG/ebook365-pdf-link-open).
